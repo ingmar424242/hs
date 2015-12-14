@@ -1,3 +1,2 @@
 # goal
-* sub translation of
-> https://www.youtube.com/watch?v=MEB_do2rd-E
+* improve subtitle translation of https://www.youtube.com/watch?v=MEB_do2rd-E
