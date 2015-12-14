@@ -287,15 +287,15 @@ Dickie, will you please stay in your room?! Santa Claus will be very angry if yo
 There used to be more lametta!
 
 73
-00:03:16,521 --> 00:03:18,838
+00:03:16,246 --> 00:03:18,896
 This year the tree is green and eco-friendly.
 
 74
-00:03:18,838 --> 00:03:23,123
+00:03:18,838 --> 00:03:22,948
 Merry Christmas! Let's go! Grampa will help me a little
 
 75
-00:03:23,123 --> 00:03:24,392
+00:03:22,949 --> 00:03:24,578
 and Dad will turn on the Christmas lights.
 
 76
