@@ -1,5 +1,5 @@
 # goal
-* improve subtitle translation of source.ogg
+* improve subtitle translation of source.m4a
 
 # sprint
-* edit text in subtitle.srt
+* edit text in source.srt
